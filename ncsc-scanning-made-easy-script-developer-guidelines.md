@@ -6,7 +6,7 @@ When a software vulnerability is disclosed, it is often easier to find proof-of-
 Should you be interested in developing a script for SME, more detail can be found below on how scripts should be produced, how the NCSC will approve, publication and through life management. 
 
 ## Testing
-We ask that you thoroughly test any scripts developed and, where possible, keep testing artefacts so they can be reviewed by the NCSC if required.
+We ask that you thoroughly test any scripts developed and, where possible, keep testing artifacts so they can be reviewed by the NCSC if required.
 
 ## NCSC Approval of a Script
 When considering whether a script meets the standard required to be part of Scanning Made Easy, the NCSC will determine whether the following mandatory requirements are met:
